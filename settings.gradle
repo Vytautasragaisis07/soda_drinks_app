@@ -1,0 +1,2 @@
+rootProject.name='soda_drinks_app'
+include ':app'
