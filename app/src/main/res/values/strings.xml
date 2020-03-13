@@ -20,13 +20,13 @@
     <string name="login_invalid_credentials_message">Wrong username or password</string>
 
 
-    <string name="search_new_entry_title">Dinner</string>
-    <string name="search_new_entry_button">New Dinner</string>
+    <string name="search_new_entry_title">Soda Drinks</string>
+    <string name="search_new_entry_button">New Order</string>
 
-    <string name="new_entry_dinner_type">Dinner Type: </string>
-    <string name="new_entry_dinner_type_soup">Soup</string>
-    <string name="new_entry_dinner_type_main">Main</string>
-    <string name="new_entry_dinner_type_salad">Salad</string>
+    <string name="new_entry_dinner_type">Soda type: </string>
+    <string name="new_entry_dinner_type_soup">Coca Cola</string>
+    <string name="new_entry_dinner_type_main">Sprite</string>
+    <string name="new_entry_dinner_type_salad">Fanta</string>
     <string name="new_entry_dinner_delivery_type">Delivery: </string>
     <string name="new_entry_dinner_delivery_type_no">No</string>
     <string name="new_entry_dinner_delivery_type_yes">Yes</string>
