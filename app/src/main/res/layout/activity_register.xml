@@ -3,11 +3,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:padding="10dp"
     android:background="@color/colorBackground">
 
 
     <TextView
-        android:padding="60dp"
+        android:padding="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/app_title1"
@@ -16,6 +17,11 @@
         android:textColor="@color/colorText"
         android:textSize="35dp"
         android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/logo" />
 
     <TextView
 

@@ -8,7 +8,7 @@
 
 
     <TextView
-        android:padding="60dp"
+        android:padding="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/search_new_entry_title"
@@ -17,6 +17,11 @@
         android:textColor="@color/colorText"
         android:textSize="35dp"
         android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/logo" />
 
     <LinearLayout
 
@@ -28,7 +33,7 @@
         android:id="@+id/new_entry_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="250dp"
+        android:layout_marginTop="25dp"
         android:layout_weight="1"
         android:background="@color/colorAccent"
         android:text="@string/search_new_entry_button" />
